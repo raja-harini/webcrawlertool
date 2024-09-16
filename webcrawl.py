@@ -1,15 +1,3 @@
-# WEB CRAWLER TOOL
-My mini project on web crawler tool
-## AIM:
-
-## DONE BY : HARINI R
-## REGISTER NUMBER : 212223100010
-## DEGREE : B.E.COMPUTER SCIENCE AND ENGINEERING(CYBER SECURITY)
-## COLLEGE : SAVEETHA ENGINEERIN COLLEGE, THANDALAM
-
-## PROGRAM:
-
-```
 import argparse
 from urllib.parse import urlparse, parse_qs
 
@@ -46,9 +34,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-```
-
-## OUTPUT:
-
-
-
