@@ -1,14 +1,3 @@
-URL: https://lms2.cse.saveetha.in/mod/hvp/view.php?id=22669
-Parameters:
-  id: 22669
-
-URL: https://docs.google.com/presentation/d/17Yn_wfpbqW4YXEbicxFC4flz4J1xSFS_/edit#slide=id.p1
+URL: https://www.google.com
 No parameters found.
-
-URL: https://www.flipkart.com
-No parameters found.
-
-URL: https://lms2.cse.saveetha.in/mod/assign/view.php?id=173
-Parameters:
-  id: 173
 
